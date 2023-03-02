@@ -8,7 +8,7 @@ const Navbar = () => {
         
         <div className="navbar-brand mb-4 mb-md-0 mb-lg-0">
           {/* <img src={logo} alt="logo" width="30" height="auto" className="d-inline-block align-text-top" /> */}
-          <span className="ms-2 fw-bold">rimswebdev</span>
+          <span className="ms-2 fw-bold">vitaliydev</span>
         </div>
         
         <div className="">
