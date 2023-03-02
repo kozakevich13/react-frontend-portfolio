@@ -10,7 +10,6 @@ const About = () => {
       <p className="text-center lead m-4">
         I'm a react web developer with 2+ years of experience in web development. I love creating responsive websites using ReactJS, JavaScript, HTML5, CSS3, Bootstrap, and Sass/Scss. 
         I enjoy creating website designs in Figma and converting UI designs into real websites. I've done multiple small projects to learn basics and now doing more complex projects. 
-        {/* Apart form this, i'm learning flutter for my final year project (FYP) */}
       </p>
       <a href={resume} download className="btn btn-primary mt-5 custom-btn fw-bold">Download My Resume</a>
       <h3 className='pt-5 pb-2 custom-color'>Languages and tools I use:</h3>
