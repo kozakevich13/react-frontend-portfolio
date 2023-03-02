@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.76aa1c88.css",
+    "main.js": "/portfolio/static/js/main.a77e29a8.js",
+    "static/js/787.50717d1e.chunk.js": "/portfolio/static/js/787.50717d1e.chunk.js",
+    "static/media/CV_Vitaliy_Kozakevich.pdf": "/portfolio/static/media/CV_Vitaliy_Kozakevich.a3bdf0b2369b69ed6b61.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.76aa1c88.css.map": "/portfolio/static/css/main.76aa1c88.css.map",
+    "main.a77e29a8.js.map": "/portfolio/static/js/main.a77e29a8.js.map",
+    "787.50717d1e.chunk.js.map": "/portfolio/static/js/787.50717d1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aa1c88.css",
+    "static/js/main.a77e29a8.js"
+  ]
+}
