@@ -2,7 +2,7 @@
   "name": "react-frontend-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kozakevich13.github.io/dev-portfolio/",
+  "homepage": "https://kozakevich13.github.io/react-frontend-portfolio/",
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
     "@lottiefiles/react-lottie-player": "^3.4.7",

@@ -8,9 +8,9 @@ function App() {
     <>
      <BrowserRouter>
       <Routes>
-        <Route path='/' element={<Layout />}>
+        <Route path='/react-frontend-portfolio/' element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path='about' element={<About/>} />
+          <Route path='/react-frontend-portfolio/about' element={<About/>} />
         </Route>
       </Routes>
      </BrowserRouter>
