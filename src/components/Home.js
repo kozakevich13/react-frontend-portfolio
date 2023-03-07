@@ -12,7 +12,7 @@ const Home = () => {
             <h1 className=''>Hi, I'm Vitaliy</h1>
             <h1 className='fw-bold custom-font'>Web Developer.</h1>
             <p className='pt-5'>Frontend Development / ReactJS / Web Designing</p>
-            <NavLink to='/projects'><button className='btn btn-primary custom-btn ps-5 pe-5 fw-bold mt-2'>My Work</button></NavLink>
+            <NavLink to='/react-frontend-portfolio/projects'><button className='btn btn-primary custom-btn ps-5 pe-5 fw-bold mt-2'>My Work</button></NavLink>
           </div>
 
           <div>
