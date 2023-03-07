@@ -18,7 +18,7 @@ const Navbar = () => {
         </div>
         
         <div>
-          <NavLink to='/contact' className="link">
+          <NavLink to='/react-frontend-portfolio/contact' className="link">
             <button className='mt-5 m-lg-0 btn btn-primary custom-btn fw-bold'>Contact me</button>
           </NavLink>
         </div>
