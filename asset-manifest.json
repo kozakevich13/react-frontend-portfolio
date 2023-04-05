@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-frontend-portfolio/static/css/main.6fe2900d.css",
-    "main.js": "/react-frontend-portfolio/static/js/main.842b4262.js",
+    "main.js": "/react-frontend-portfolio/static/js/main.900eeadb.js",
     "static/js/787.50717d1e.chunk.js": "/react-frontend-portfolio/static/js/787.50717d1e.chunk.js",
     "static/media/CV_Vitaliy_Kozakevich.pdf": "/react-frontend-portfolio/static/media/CV_Vitaliy_Kozakevich.a3bdf0b2369b69ed6b61.pdf",
     "static/media/windows-98.png": "/react-frontend-portfolio/static/media/windows-98.4ec1578653b713388051.png",
     "index.html": "/react-frontend-portfolio/index.html",
     "static/media/logo.svg": "/react-frontend-portfolio/static/media/logo.537add793a58478a552ac7fc1079a824.svg",
     "main.6fe2900d.css.map": "/react-frontend-portfolio/static/css/main.6fe2900d.css.map",
-    "main.842b4262.js.map": "/react-frontend-portfolio/static/js/main.842b4262.js.map",
+    "main.900eeadb.js.map": "/react-frontend-portfolio/static/js/main.900eeadb.js.map",
     "787.50717d1e.chunk.js.map": "/react-frontend-portfolio/static/js/787.50717d1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fe2900d.css",
-    "static/js/main.842b4262.js"
+    "static/js/main.900eeadb.js"
   ]
 }
