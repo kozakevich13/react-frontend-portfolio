@@ -16,7 +16,7 @@ const resources = {
       "resume": "Download My Resume",
       "languages": "Languages and tools I use:",
       "currently_learning": "Currently Learning:",
-      "add_account": "Add account",
+      "windows_description": "This project was created to push myself in HTML and CSS3 and to learn more in depth React and react-grid-layout.",
       "connect_fb_account": "Connect to your Facebook account",
       "whatsapp_bus_id": "Enter your ID of a WhatsApp Business Account",
     }

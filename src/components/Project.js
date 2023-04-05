@@ -1,8 +1,20 @@
-import React from 'react'
+import React  from 'react'
+import { useEffect, useState } from 'react'
 import { AiOutlineGithub } from 'react-icons/ai'
 import { BiLinkExternal } from 'react-icons/bi'
+import { useTranslation } from "react-i18next";
+
  
-function Project({id, image, name, stack, live, source, desc}) {
+function Project({id, image, name, stack, live, source, desc_en, desc_ua}) {
+    const [desc, setDesc] = useState(desc_en)
+    const { i18n } = useTranslation();
+
+    useEffect (()=>{
+        if(i18n.language == 'en') {
+            setDesc(desc_en)
+        } else setDesc(desc_ua)
+    },[i18n.language])
+
   return (
     <div className="">
         <div className="card mb-5" style={{maxWidth:'900px'}}>

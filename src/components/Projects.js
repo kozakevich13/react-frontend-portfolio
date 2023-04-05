@@ -15,7 +15,8 @@ const Projects = () => {
                   stack={project.stack}
                   live={project.live}
                   source={project.source}
-                  desc={project.description}
+                  desc_en={project.description_en}
+                  desc_ua={project.description_ua}
                 />
             </div>
           )
