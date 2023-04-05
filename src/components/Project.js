@@ -20,7 +20,7 @@ function Project({id, image, name, stack, live, source, desc_en, desc_ua}) {
         <div className="card mb-5" style={{maxWidth:'900px'}}>
         <div className="g-0 d-flex flex-column flex-lg-row align-items-center ">
             <div className="">
-                <img src={image} className="img-fluid rounded-start project-img px-lg-0 ps-4 pe-1" alt={name} />
+                <img src={image} style={{width: '100%'}} className="img-fluid rounded-start project-img px-lg-0" alt={name} />
             </div>
             <div className="">
                 <div className="card-body px-4">
