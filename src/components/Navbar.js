@@ -71,8 +71,8 @@ const Navbar = () => {
         </motion.div>
         
         <motion.div custom={1} variants={NavBarAnimation} className="">
-          <NavLink to='/react-frontend-portfolio/' className="link me-4 me-lg-5 w-link">{t("home")}</NavLink>
-          <NavLink to='/react-frontend-portfolio/about' className="link me-4 me-lg-5 w-link">{t("about")}</NavLink>
+          <NavLink to='/react-frontend-portfolio/' className="link me-3 me-lg-5 w-link">{t("home")}</NavLink>
+          <NavLink to='/react-frontend-portfolio/about' className="link me-3 me-lg-5 w-link">{t("about")}</NavLink>
           <NavLink to='/react-frontend-portfolio/projects' className="link w-link">{t("projects")}</NavLink>
         </motion.div>
         
