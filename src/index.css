@@ -111,3 +111,15 @@ body{
     width: 500px;
   }
 }
+
+.w-link {
+  display: inline-block;
+  text-align: center;
+  width: 84px !important
+  
+}
+
+.w-btn {
+  display: inline-block;
+  width: 190px !important 
+}

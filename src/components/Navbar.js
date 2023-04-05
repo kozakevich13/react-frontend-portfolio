@@ -30,9 +30,9 @@ const Navbar = () => {
         </div>
         
         <div className="">
-          <NavLink to='/react-frontend-portfolio/' className="link me-4 me-lg-5">{t("home")}</NavLink>
-          <NavLink to='/react-frontend-portfolio/about' className="link me-4 me-lg-5">{t("about")}</NavLink>
-          <NavLink to='/react-frontend-portfolio/projects' className="link">{t("projects")}</NavLink>
+          <NavLink to='/react-frontend-portfolio/' className="link me-4 me-lg-5 w-link">{t("home")}</NavLink>
+          <NavLink to='/react-frontend-portfolio/about' className="link me-4 me-lg-5 w-link">{t("about")}</NavLink>
+          <NavLink to='/react-frontend-portfolio/projects' className="link w-link">{t("projects")}</NavLink>
         </div>
         
         <div>
@@ -44,7 +44,7 @@ const Navbar = () => {
             )}
           </button>
           <NavLink to='/react-frontend-portfolio/contact' className="link">
-            <button className='mt-5 m-lg-0 btn btn-primary custom-btn fw-bold'>{t("contact")}</button>
+            <button className='mt-5 m-lg-0 btn btn-primary custom-btn fw-bold w-btn'>{t("contact")}</button>
           </NavLink>
         </div>
 
