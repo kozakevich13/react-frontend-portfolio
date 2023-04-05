@@ -11,6 +11,18 @@ const Home = () => {
 
   const PlayerAnimation = {
     hidden: {
+      x: 100,
+      opacity: 0,
+    },
+    visible: custom => ({
+      x: 0,
+      opacity: 1,
+      transition: {delay: custom * 0.2},
+    }) 
+  }
+
+  const TextAnimation = {
+    hidden: {
       x: -100,
       opacity: 0,
     },
@@ -30,10 +42,10 @@ const Home = () => {
       <div className='container-fluid'>
        <div className='d-sm-flex align-items-center justify-content-between'>
           <div className='ms-sm-5 ps-sm-5 d-flex flex-column text-center align-items-center align-items-lg-start'>
-            <motion.h1 custom={1} variants={PlayerAnimation} className=''>{t("hi_i_am")}</motion.h1>
-            <motion.h1 custom={2} variants={PlayerAnimation} className='fw-bold custom-font'>{t("web_developer")}</motion.h1>
-            <motion.p custom={3} variants={PlayerAnimation} className='pt-5'>Frontend Development / ReactJS / Web Designing</motion.p>
-            <NavLink to='/react-frontend-portfolio/projects'><button className='btn btn-primary custom-btn ps-5 pe-5 fw-bold mt-2'>{t("my_works")}</button></NavLink>
+            <motion.h1 custom={1} variants={TextAnimation} className=''>{t("hi_i_am")}</motion.h1>
+            <motion.h1 custom={2} variants={TextAnimation} className='fw-bold custom-font'>{t("web_developer")}</motion.h1>
+            <motion.p custom={3} variants={TextAnimation} className='pt-5'>Frontend Development / ReactJS / Web Designing</motion.p>
+            <NavLink to='/react-frontend-portfolio/projects'><motion.button custom={4} variants={TextAnimation} className='btn btn-primary custom-btn ps-5 pe-5 fw-bold mt-2'>{t("my_works")}</motion.button></NavLink>
           </div>
 
           <motion.div
