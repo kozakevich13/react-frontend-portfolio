@@ -20,7 +20,7 @@ const ProjectsData = [
     img: devTeam,
     name: "Dev Team",
     stack: ["< Bootstrap />", "< emailjs-com />", "< React.js />"],
-    live: "https://kozakevich13.github.io/dev-team/",
+    live: "https://kozakevich13.github.io/dev-team-landing/",
     source: "https://github.com/kozakevich13/dev-team-landing",
     description_en:  
         "This page was created using such technologies as: React, Bootstrap, emailjs-com.",
