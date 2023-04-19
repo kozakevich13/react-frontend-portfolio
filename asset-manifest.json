@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/react-frontend-portfolio/static/css/main.6fe2900d.css",
-    "main.js": "/react-frontend-portfolio/static/js/main.58c4a814.js",
+    "main.js": "/react-frontend-portfolio/static/js/main.15fc6a27.js",
     "static/js/787.50717d1e.chunk.js": "/react-frontend-portfolio/static/js/787.50717d1e.chunk.js",
+    "static/media/pixel.png": "/react-frontend-portfolio/static/media/pixel.dca1af45efaabd713b6a.png",
     "static/media/dev-team.png": "/react-frontend-portfolio/static/media/dev-team.066762e07903085e1483.png",
+    "static/media/birthday-card.png": "/react-frontend-portfolio/static/media/birthday-card.a98217a74e04e53b0e2e.png",
     "static/media/CV_Vitaliy_Kozakevich.pdf": "/react-frontend-portfolio/static/media/CV_Vitaliy_Kozakevich.a3bdf0b2369b69ed6b61.pdf",
     "static/media/windows-98.png": "/react-frontend-portfolio/static/media/windows-98.4ec1578653b713388051.png",
     "index.html": "/react-frontend-portfolio/index.html",
     "static/media/logo.svg": "/react-frontend-portfolio/static/media/logo.537add793a58478a552ac7fc1079a824.svg",
     "main.6fe2900d.css.map": "/react-frontend-portfolio/static/css/main.6fe2900d.css.map",
-    "main.58c4a814.js.map": "/react-frontend-portfolio/static/js/main.58c4a814.js.map",
+    "main.15fc6a27.js.map": "/react-frontend-portfolio/static/js/main.15fc6a27.js.map",
     "787.50717d1e.chunk.js.map": "/react-frontend-portfolio/static/js/787.50717d1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fe2900d.css",
-    "static/js/main.58c4a814.js"
+    "static/js/main.15fc6a27.js"
   ]
 }
